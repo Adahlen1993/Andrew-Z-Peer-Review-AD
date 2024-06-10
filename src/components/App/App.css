@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.App, footer {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(37,98,31,0.4668461134453782) 67%, rgba(0,212,255,1) 100%);
+}
+
+.movieDescription {
+  width: 400px;
+  color: black;
+  border: 5px;
+  border-color: blue;
+}
+
+#toListBtn {
+  margin-bottom: 250px;
+}

@@ -1,0 +1,20 @@
+.movies {
+    display : flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+#card {
+    display: inline-block;
+    margin: 10px;
+    align-items: center;
+}
+
+/* .listTitle {
+    width: 200px;
+} */
+
+/* .listImg {
+    align-content: center;
+    width: 200px;
+} */
